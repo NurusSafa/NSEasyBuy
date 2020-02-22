@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practice\\NSEasyBuyGit\\NSEasyBuy\\NSEasyBuy\\NSEasyBuy.csproj",
-      "projectName": "NSEasyBuy",
-      "projectPath": "E:\\Practice\\NSEasyBuyGit\\NSEasyBuy\\NSEasyBuy\\NSEasyBuy.csproj",
+      "projectUniqueName": "E:\\Practice\\NSEasyBuyGit\\NSEasyBuy\\NSEasyBuy\\NSEasyBuyAPI.csproj",
+      "projectName": "NSEasyBuyAPI",
+      "projectPath": "E:\\Practice\\NSEasyBuyGit\\NSEasyBuy\\NSEasyBuy\\NSEasyBuyAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Practice\\NSEasyBuyGit\\NSEasyBuy\\NSEasyBuy\\obj\\",
       "projectStyle": "PackageReference",
