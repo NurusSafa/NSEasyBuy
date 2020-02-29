@@ -2,7 +2,23 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NSEasyBuy.BLL\NSEasyBuy.BLL.csproj" />
+    <ProjectReference Include="..\NSEasyBuy.Service\NSEasyBuy.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NSEasyBuy.DAL">
+      <HintPath>..\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 
 </Project>

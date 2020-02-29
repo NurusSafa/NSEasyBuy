@@ -1,0 +1,16 @@
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.csprojAssemblyReference.cache
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.AssemblyInfoInputs.cache
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.AssemblyInfo.cs
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.deps.json
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.dll
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.pdb
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.dll
+E:\Safa\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.pdb
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.deps.json
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.dll
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\bin\Debug\netcoreapp3.1\NSEasyBuy.DAL.pdb
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.csprojAssemblyReference.cache
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.AssemblyInfoInputs.cache
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.AssemblyInfo.cs
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.dll
+E:\Practice\NSEasyBuyGit\NSEasyBuyServer\NSEasyBuy.DAL\obj\Debug\netcoreapp3.1\NSEasyBuy.DAL.pdb
